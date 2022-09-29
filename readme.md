@@ -1,6 +1,6 @@
 # [Material Dashboard Laravel - Free Frontend Preset for Laravel](https://material-dashboard-laravel.creative-tim.com/?ref=adnp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard%20Laravel%20is%20a%20Free%20Frontend%20Preset%20for%20Laravel%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//material-dashboard-laravel.creative-tim.com/%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23free%20via%20%40CreativeTim)
 
-![version](https://img.shields.io/badge/version-1.0.9-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/laravel-frontend-presets/material-dashboard.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/material-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/laravel-frontend-presets/material-dashboard.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/material-dashboard/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.9-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-laravel-bs4.svg?maxAge=2592000)](https://github.com/creativetimofficial/material-dashboard-laravel-bs4/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-laravel-bs4.svg?maxAge=2592000)](https://github.com/creativetimofficial/material-dashboard-laravel-bs4/issues?q=is%3Aissue+is%3Aclosed)
 
 *Frontend version*: Material Dashboard v2.1.1. More info at https://www.creative-tim.com/product/material-dashboard
 
@@ -32,7 +32,7 @@ After initializing a fresh instance of Laravel (and making all the necessary con
 
 1. `Cd` to your Laravel app  
 2. Type in your terminal: `composer require laravel/ui` and `php artisan ui vue --auth`
-3. Install this preset via `composer require laravel-frontend-presets/material-dashboard`. No need to register the service provider. Laravel 5.5 & up can auto detect the package.
+3. Install this preset via `composer require laravel-frontend-presets/material-dashboard 1.1.3`. No need to register the service provider. Laravel 5.5 & up can auto detect the package.
 4. Run `php artisan ui material` command to install the Argon preset. This will install all the necessary assets and also the custom auth views, it will also add the auth route in `routes/web.php`
 (NOTE: If you run this command several times, be sure to clean up the duplicate Auth entries in routes/web.php)
 5. In your terminal run `composer dump-autoload`
@@ -441,7 +441,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://material-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=mdl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/laravel-frontend-presets/material-dashboard/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-laravel-bs4/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
@@ -468,7 +468,7 @@ We use GitHub Issues as the official bug tracker for the Material Dashboard Lara
 ## Licensing
 
 - Copyright Creative Tim (https://www.creative-tim.com/?ref=mdl-readme)
-- Licensed under MIT (https://github.com/laravel-frontend-presets/material-dashboard/blob/master/license.md)
+- Licensed under MIT (https://github.com/creativetimofficial/material-dashboard-laravel-bs4/blob/master/license.md)
 
 ## Useful Links
 
