@@ -19,7 +19,7 @@
     <meta itemprop="name" content="Material Dashboard Laravel by Creative Tim">
     <meta itemprop="description" content="Material Dashboard Laravel is a Free Material Bootstrap Admin Preset for Laravel with a fresh, new design inspired by Google's Material Design.">
 
-    <meta itemprop="image" content="https://s3.amazonaws.com/creativetim_bucket/products/154/opt_md_laravel_thumbnail.jpg">
+    <meta itemprop="image" content="https://s3.amazonaws.com/creativetim_bucket/products/598/original/opt_md_laravel_thumbnail.jpg?1651245243">
 
 
     <!-- Twitter Card data -->
@@ -29,7 +29,7 @@
 
     <meta name="twitter:description" content="Material Dashboard Laravel is a Free Material Bootstrap Admin Preset for Laravel with a fresh, new design inspired by Google's Material Design.">
     <meta name="twitter:creator" content="@creativetim">
-    <meta name="twitter:image" content="https://s3.amazonaws.com/creativetim_bucket/products/154/opt_md_laravel_thumbnail.jpg">
+    <meta name="twitter:image" content="https://s3.amazonaws.com/creativetim_bucket/products/598/original/opt_md_laravel_thumbnail.jpg?1651245243">
 
 
     <!-- Open Graph data -->
@@ -37,7 +37,7 @@
     <meta property="og:title" content="Material Dashboard Laravel by Creative Tim" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://material-dashboard-laravel.creative-tim.com/" />
-    <meta property="og:image" content="https://s3.amazonaws.com/creativetim_bucket/products/154/opt_md_laravel_thumbnail.jpg"/>
+    <meta property="og:image" content="https://s3.amazonaws.com/creativetim_bucket/products/598/original/opt_md_laravel_thumbnail.jpg?1651245243"/>
     <meta property="og:description" content="Material Dashboard Laravel is a Free Material Bootstrap Admin Preset for Laravel with a fresh, new design inspired by Google's Material Design." />
     <meta property="og:site_name" content="Creative Tim" />
     
